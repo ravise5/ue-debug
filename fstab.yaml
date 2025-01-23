@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/jalagari/demo/main
+    url: https://c3d0-130-248-127-34.ngrok-free.app/bin/franklin.delivery/rae/ue-debug/main
     type: "markup"
     suffix: ".html"
