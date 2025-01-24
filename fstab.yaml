@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://450f-130-248-126-34.ngrok-free.app/bin/franklin.delivery/rae/ue-debug/main
+    url: https://59f4-130-248-127-34.ngrok-free.app/bin/franklin.delivery/rae/ue-debug/main
     type: "markup"
     suffix: ".html"
